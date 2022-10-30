@@ -1,0 +1,179 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="350"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="width: 350px; height: 400px;" contentStyleType="text/css"
+     height="400" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <style type="text/css" xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-subtitle { color: black; fill: black; font-size: 12px; }
+.knime-label, .knime-axis-label, .knime-tick-label, .knime-label text, text.knime-axis-label, text.knime-tick-label { color: black; fill: black; font-size: 12px; }</style><style type="text/css"
+           xml:space="preserve">.axis path, line { fill: none; stroke: rgb(0, 0, 0); shape-rendering: crispedges; }</style><rect fill="#FFFFFF"
+          width="350" id="bgr" height="400"/>
+    <g id="plotG" transform="translate(28.6875,46)">
+        <rect fill="#FFFFFF" width="311.3125" id="da" height="319"/>
+        <g class="x axis knime-x knime-axis" transform="translate(0,319)">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(86.47569444444444,0)">
+                <line y2="6" fill="none" shape-rendering="crispEdges" x2="0"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="0" dy=".71em" y="9" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    F
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(224.83680555555557,0)">
+                <line y2="6" fill="none" shape-rendering="crispEdges" x2="0"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="0" dy=".71em" y="9" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    H
+                </text>
+            </g>
+            <path fill="none" d="M0,6V0H311.3125V6" shape-rendering="crispEdges"
+                  class="domain knime-axis-line" stroke="black"/>
+        </g>
+        <g class="y axis knime-y knime-axis">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,314)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,251.2)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    5
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,188.39999999999998)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    10
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,125.6)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    15
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,62.79999999999998)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    20
+                </text>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,0)">
+                <line y2="0" fill="none" shape-rendering="crispEdges" x2="-6"
+                      class="knime-tick-line" stroke="black"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    25
+                </text>
+            </g>
+            <path fill="none" d="M-6,0H0V314H-6" shape-rendering="crispEdges"
+                  class="domain knime-axis-line" stroke="black"/>
+        </g>
+        <text dy=".75em" y="6" class="y axis-label knime-y knime-axis-label"
+              transform="rotate(-90)" text-anchor="end">
+            Ancienneté_an
+        </text>
+        <text x="311.3125" y="308" class="x axis-label knime-x knime-axis-label"
+              text-anchor="end">
+            Sexe
+        </text>
+        <g class="box" transform="translate(69.18055555555556,0)">
+            <rect fill="#1f77b4" width="34.59027777777778"
+                  height="138.16000000000003" y="96.71199999999999"
+                  class="boxrect" stroke="black"/>
+            <text x="-5" y="99.71199999999999" class="uqText knime-label"
+                  text-anchor="end">
+                17.3
+            </text>
+            <text x="-5" y="237.872" class="lqText knime-label"
+                  text-anchor="end">
+                6.3
+            </text>
+            <line x1="0" x2="34.59027777777778" y1="167.048" y2="167.048"
+                  class="median" stroke="black" stroke-width="3"/>
+            <text class="medianText knime-label" x="39.59027777777778"
+                  y="170.048">
+                11.7
+            </text>
+            <line x1="17.29513888888889" x2="17.29513888888889"
+                  y1="96.71199999999999" y2="0" stroke-dasharray="5,5"
+                  class="uwL1" stroke="black"/>
+            <line y2="0" x1="0" class="uwL2" x2="34.59027777777778"
+                  stroke="black" y1="0"/>
+            <text class="uwText knime-label" x="39.59027777777778" y="10">
+                25
+            </text>
+            <line x1="17.29513888888889" x2="17.29513888888889" y1="234.872"
+                  y2="308.976" stroke-dasharray="5,5" class="ulL1"
+                  stroke="black"/>
+            <line y2="308.976" x1="0" class="ulL2" x2="34.59027777777778"
+                  stroke="black" y1="308.976"/>
+            <text class="ulText knime-label" x="39.59027777777778" y="305.976">
+                0.4
+            </text>
+        </g>
+        <g class="box" transform="translate(207.54166666666669,0)">
+            <rect fill="#ff7f0e" width="34.59027777777778" height="153.232"
+                  y="57.77600000000001" class="boxrect" stroke="black"/>
+            <text x="-5" y="60.77600000000001" class="uqText knime-label"
+                  text-anchor="end">
+                20.4
+            </text>
+            <text x="-5" y="214.008" class="lqText knime-label"
+                  text-anchor="end">
+                8.2
+            </text>
+            <line x1="0" x2="34.59027777777778" y1="134.39199999999997"
+                  y2="134.39199999999997" class="median" stroke="black"
+                  stroke-width="3"/>
+            <text class="medianText knime-label" x="39.59027777777778"
+                  y="137.39199999999997">
+                14.3
+            </text>
+            <line x1="17.29513888888889" x2="17.29513888888889"
+                  y1="57.77600000000001" y2="1.2560000000000286"
+                  stroke-dasharray="5,5" class="uwL1" stroke="black"/>
+            <line y2="1.2560000000000286" x1="0" class="uwL2"
+                  x2="34.59027777777778" stroke="black" y1="1.2560000000000286"/>
+            <text class="uwText knime-label" x="39.59027777777778"
+                  y="11.256000000000029">
+                24.9
+            </text>
+            <line x1="17.29513888888889" x2="17.29513888888889" y1="211.008"
+                  y2="310.232" stroke-dasharray="5,5" class="ulL1"
+                  stroke="black"/>
+            <line y2="310.232" x1="0" class="ulL2" x2="34.59027777777778"
+                  stroke="black" y1="310.232"/>
+            <text class="ulText knime-label" x="39.59027777777778" y="307.232">
+                0.3
+            </text>
+        </g>
+    </g>
+    <text x="20" y="30" id="title" class="knime-title">
+        Ancienneté entre les F et les H
+    </text>
+    <text x="20" y="32" id="subtitle" class="knime-subtitle"/>
+</svg>
