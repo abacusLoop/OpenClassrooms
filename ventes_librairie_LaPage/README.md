@@ -2,14 +2,9 @@
 
 ## Scénario
 
-Vous êtes consultant Data Analyst chez Lapage, une grande librairie généraliste en ligne très réputée. Vous êtes directement rattaché au service Marketing.
+As a data dnalyst responsible for analyzing online sales data at Lapage, a large and very reputable online generalist bookstore, I have the following mission:
 
-Lapage était originellement une librairie physique avec plusieurs points de vente. Mais devant le succès de certains de ses produits et l’engouement de ses clients, elle a décidé depuis 2 ans d’ouvrir un site de vente en ligne. Vous intervenez car l’entreprise souhaite faire le point après deux ans d’exercice, et pouvoir analyser ses points forts, ses points faibles, les comportements clients, etc.
+- Analyse the different sales indicators;
 
-L’équipe Marketing que vous intégrez se compose de : 
+- A more customer-targeted analysis: the objective would be to understand the behavior of our customers online, in order to then be able to compare with the knowledge acquired via our physical bookstores.
 
-- Annabelle, la responsable Marketing ;
-- Julie, chargée d’études en marketing ;
-- Antoine, chargé de produit marketing.
-
-Voici le mail de résumé envoyé par Annabelle, que vous trouvez dès votre arrivée :
